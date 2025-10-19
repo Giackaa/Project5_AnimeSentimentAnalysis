@@ -53,6 +53,7 @@ By leveraging **natural language processing (NLP)** and **data visualization**, 
 | **Negative emotion indicators:** | `Disgust (-0.86)` and `Sadness (-0.61)` strongly correlate with lower ratings |
 | **Interpretation:** | Viewers enjoy surprise elements regardless of positive or negative tone (e.g., cliffhangers). However, episodes that evoke **disgust or sadness** tend to receive significantly lower ratings. |
 
+- Sample visualization
 <img width="1314" height="741" alt="image" src="https://github.com/user-attachments/assets/0e3701aa-ef12-4d3b-9dee-697da700134d" />
 
 ---
