@@ -1,4 +1,4 @@
-# 🎭 Anime Sentiment Analysis
+# Anime Sentiment Analysis (Blue Lock Season 2)
 
 ## Overview
 This project analyzes user comments from **MyAnimeList** to explore how viewer sentiment and emotion correlate with anime episode ratings.  
@@ -53,6 +53,12 @@ By leveraging **natural language processing (NLP)** and **data visualization**, 
 | **Negative emotion indicators:** | `Disgust (-0.86)` and `Sadness (-0.61)` strongly correlate with lower ratings |
 | **Interpretation:** | Viewers enjoy surprise elements regardless of positive or negative tone (e.g., cliffhangers). However, episodes that evoke **disgust or sadness** tend to receive significantly lower ratings. |
 
+<img width="1314" height="741" alt="image" src="https://github.com/user-attachments/assets/0e3701aa-ef12-4d3b-9dee-697da700134d" />
+
+---
+## Limitations
+- The analysis in this project only pertains to the anime Blue Lock season 2
+- Correlation measurements are created based on a small number of aggregated. The results should looked at more as exploratory, rather than definitive, findings
 ---
 
 ## Conclusion
