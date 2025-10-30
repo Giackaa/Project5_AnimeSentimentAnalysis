@@ -54,7 +54,7 @@ By leveraging **natural language processing (NLP)** and **data visualization**, 
 | **Interpretation:** | Viewers enjoy surprise elements regardless of positive or negative tone (e.g., cliffhangers). However, episodes that evoke **disgust or sadness** tend to receive significantly lower ratings. |
 
 - Sample visualization
-<img width="1314" height="741" alt="image" src="https://github.com/user-attachments/assets/0e3701aa-ef12-4d3b-9dee-697da700134d" />
+![Description](image_2025-10-30_150427719.png)
 
 ---
 ## Limitations
